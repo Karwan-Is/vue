@@ -1,19 +1,11 @@
-# vue
+In the project directory you can run:
 
-## Project setup
-```
-npm install
-```
+### `npm install`
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+then you can run:
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### `npm start`
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This is the link to see it online
+
+https://karwan-is.github.io/vue/
