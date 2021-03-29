@@ -1,0 +1,52 @@
+{
+    "skills": [
+        {
+            "id": 1,
+            "title": "HTML",
+            "class_name":"html",
+            "img": ""
+        },
+        {
+            "id": 2,
+            "title": "CSS",
+            "class_name":"css",
+            "img": ""
+        },
+        {
+            "id": 3,
+            "title": "JavaScript",
+            "class_name":"js",
+            "img": ""
+        },
+        {
+            "id": 4,
+            "title": "React",
+            "class_name":"react",
+            "img": ""
+        },
+        {
+            "id": 5,
+            "title": "Node",
+            "class_name":"node",
+            "img": ""
+        },
+        {
+            "id": 6,
+            "title": "MongoDB",
+            "class_name":"mongodb",
+            "img": ""
+        },
+        {
+            "id": 7,
+            "title": "Vue",
+            "class_name":"vue",
+            "img": ""
+        },
+        {
+            "id": 8,
+            "title": "Angular",
+            "class_name":"angular",
+            "img": ""
+        }
+    ]
+}

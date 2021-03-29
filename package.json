@@ -5,10 +5,13 @@
   "scripts": {
     "start": "npm run serve",
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build"
+    "build": "vue-cli-service build",
+    "deploy": "sh deploy.sh"
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "json-server": "^0.16.3",
+    "sass": "^1.32.8",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-0"
   },
